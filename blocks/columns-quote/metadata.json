@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-quote",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-03-02T17:51:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.astrazeneca.com/",
+    "originPage": "Corporate homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "executive-quote",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image | blockquote + attribution + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "CEO/executive quote sections",
+      "testimonial panels with portrait",
+      "investor relations highlights"
+    ],
+    "notSuitableFor": [
+      "multi-row column layouts",
+      "image galleries",
+      "data comparison tables"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-02T17:51:00.000Z"
+  }
+}

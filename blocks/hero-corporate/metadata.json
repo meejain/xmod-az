@@ -1,0 +1,39 @@
+{
+  "variantName": "hero-corporate",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-03-02T17:51:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.astrazeneca.com/",
+    "originPage": "Corporate homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "corporate-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + subtitle + CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "corporate homepage banners",
+      "annual report landing pages",
+      "campaign hero sections with background images"
+    ],
+    "notSuitableFor": [
+      "text-only hero sections",
+      "hero sections without background images",
+      "minimal blog headers"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-02T17:51:00.000Z"
+  }
+}
