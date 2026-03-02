@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-statement",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-03-02T17:51:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.astrazeneca.com/",
+    "originPage": "Corporate homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "mission-statement",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + CTA | image/video",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "mission/value statement sections",
+      "text with supporting media side-by-side",
+      "about us introductions"
+    ],
+    "notSuitableFor": [
+      "multi-row column layouts",
+      "image-heavy galleries",
+      "data comparison layouts"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-02T17:51:00.000Z"
+  }
+}

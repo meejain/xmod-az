@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-news",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-03-02T17:51:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.astrazeneca.com/",
+    "originPage": "Corporate homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "purpose": "news-articles",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + title + category tag",
+    "buttonCount": 1,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "news article listings",
+      "trending story sections",
+      "media centre content previews"
+    ],
+    "notSuitableFor": [
+      "product feature grids",
+      "team member profiles",
+      "image-only galleries"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-02T17:51:00.000Z"
+  }
+}

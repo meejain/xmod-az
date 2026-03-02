@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-showcase",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-03-02T17:51:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.astrazeneca.com/",
+    "originPage": "Corporate homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "mixed",
+    "density": "compact",
+    "purpose": "content-showcase",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + title + CTA link",
+    "buttonCount": 6,
+    "imageCount": 6
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage content showcase grids",
+      "topic exploration sections",
+      "mixed content card layouts"
+    ],
+    "notSuitableFor": [
+      "uniform product listings",
+      "text-only card grids",
+      "single-focus content sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["content/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-02T17:51:00.000Z"
+  }
+}

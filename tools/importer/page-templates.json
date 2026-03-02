@@ -1,0 +1,45 @@
+{
+  "templates": [
+    {
+      "name": "astrazeneca-homepage",
+      "urls": ["https://www.astrazeneca.com/"],
+      "description": "AstraZeneca corporate homepage with hero banner, mission statement, trending articles, CEO quote, and content showcase grid",
+      "blocks": [
+        {
+          "name": "hero-corporate",
+          "instances": [
+            "section.rich-header.rich-header--hero",
+            ".richHeader .rich-header"
+          ]
+        },
+        {
+          "name": "columns-statement",
+          "instances": [
+            ".parsys_column.l-two-block--padded"
+          ]
+        },
+        {
+          "name": "cards-news",
+          "instances": [
+            "section.homepage-hero.homepage-hero--v3",
+            ".homePageHeroV3 .homepage-hero"
+          ]
+        },
+        {
+          "name": "columns-quote",
+          "instances": [
+            "section.image-panel-feature",
+            ".imagePanelQuote .image-panel-feature"
+          ]
+        },
+        {
+          "name": "cards-showcase",
+          "instances": [
+            "section.homepage-content-set.homepage-content-set--layout-four",
+            ".homePageGridLayout4 .homepage-content-set"
+          ]
+        }
+      ]
+    }
+  ]
+}
